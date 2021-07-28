@@ -1,13 +1,13 @@
 # attendencies-and-marks-management-Web-Application-with-ASP.NET
 
+![fserezrzetezr](https://user-images.githubusercontent.com/38439929/127411156-af51e5a9-fdfa-440d-aa99-b237c9e23a3c.PNG)
 <br>
-![image](https://user-images.githubusercontent.com/38439929/127410851-d850d341-4ad1-48e5-a7b1-9c40033117c3.png)
+![fdsfrerterer](https://user-images.githubusercontent.com/38439929/127411166-b51fe470-fc37-47c1-87e5-d16916d37138.PNG)
 <br>
-![image](https://user-images.githubusercontent.com/38439929/127410920-e0dc821b-d9ab-4412-83f2-b2c2ec9b6977.png)
+![gdfgreterter](https://user-images.githubusercontent.com/38439929/127411173-b3eae6bd-9fc1-4312-a8c4-2929172d25de.PNG)
 <br>
-![image](https://user-images.githubusercontent.com/38439929/127410976-46e26b20-f118-4817-9a4c-c86bf8fa0662.png)
+![fdsfezreter](https://user-images.githubusercontent.com/38439929/127411178-346906d0-ca49-4775-affc-00e62dee3a8f.PNG)
 <br>
-![image](https://user-images.githubusercontent.com/38439929/127411047-77ccb35f-82fd-4e7c-b7fa-b25b9305bc15.png)
 
 
 
