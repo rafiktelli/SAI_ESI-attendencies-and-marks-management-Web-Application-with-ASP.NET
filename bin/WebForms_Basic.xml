@@ -1,0 +1,1796 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+My1stWebApplication
+</name>
+</assembly>
+<members>
+<member name="T:My1stWebApplication.My.MyWebExtension">
+ <summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans My Namespace pour les projets Web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:My1stWebApplication.My.MyWebExtension.Computer">
+ <summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member>
+<member name="P:My1stWebApplication.My.MyWebExtension.User">
+ <summary>
+ Retourne des informations pour l'utilisateur Web actuel.
+ </summary>
+</member>
+<member name="P:My1stWebApplication.My.MyWebExtension.Request">
+ <summary>
+ Retourne l'objet Request.
+ </summary>
+</member>
+<member name="P:My1stWebApplication.My.MyWebExtension.Response">
+ <summary>
+ Retourne l'objet Response.
+ </summary>
+</member>
+<member name="P:My1stWebApplication.My.MyWebExtension.Log">
+ <summary>
+ Retourne l'objet de journal Asp.
+ </summary>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._labelEE">
+<summary>
+Contrôle labelEE.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._TextBox1">
+<summary>
+Contrôle TextBox1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._TextBox2">
+<summary>
+Contrôle TextBox2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._TextBox3">
+<summary>
+Contrôle TextBox3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Button1">
+<summary>
+Contrôle Button1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.ChangerMDP._Button2">
+<summary>
+Contrôle Button2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._TextBox1">
+<summary>
+Contrôle TextBox1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._TextBox2">
+<summary>
+Contrôle TextBox2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._LinkButton1">
+<summary>
+Contrôle LinkButton1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.LoginOfficiel._Button1">
+<summary>
+Contrôle Button1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._ToolkitScriptManager2">
+<summary>
+Contrôle ToolkitScriptManager2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._UpdatePanel3">
+<summary>
+Contrôle UpdatePanel3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._updatedate">
+<summary>
+Contrôle updatedate.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Timer1">
+<summary>
+Contrôle Timer1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Dele">
+<summary>
+Contrôle Dele.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._rest">
+<summary>
+Contrôle rest.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._DDCodeMat">
+<summary>
+Contrôle DDCodeMat.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._DDGr">
+<summary>
+Contrôle DDGr.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._spanCalendrier">
+<summary>
+Contrôle spanCalendrier.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._LinkCalendar1">
+<summary>
+Contrôle LinkCalendar1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._bt_sel_mat_gr">
+<summary>
+Contrôle bt_sel_mat_gr.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._uibasic3">
+<summary>
+Contrôle uibasic3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._UpdatePanel2">
+<summary>
+Contrôle UpdatePanel2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._Calendar1">
+<summary>
+Contrôle Calendar1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._ButtonSave">
+<summary>
+Contrôle ButtonSave.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._LabelMdl">
+<summary>
+Contrôle LabelMdl.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._LabelGrp">
+<summary>
+Contrôle LabelGrp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._LabelPrm">
+<summary>
+Contrôle LabelPrm.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._SqlDataSource1">
+<summary>
+Contrôle SqlDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._SqlDataSource3">
+<summary>
+Contrôle SqlDataSource3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._divEGV">
+<summary>
+Contrôle divEGV.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._LabelMsg">
+<summary>
+Contrôle LabelMsg.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._EtudiantGrid">
+<summary>
+Contrôle EtudiantGrid.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbscenceSaisie._SqlDataSource2">
+<summary>
+Contrôle SqlDataSource2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._PrmLabel">
+<summary>
+Contrôle PrmLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._SecLabel">
+<summary>
+Contrôle SecLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._GrpLabel">
+<summary>
+Contrôle GrpLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._LabelMsg">
+<summary>
+Contrôle LabelMsg.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._LabelMsg2">
+<summary>
+Contrôle LabelMsg2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._MatiereAbsGridView">
+<summary>
+Contrôle MatiereAbsGridView.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsenceAffichage._SqlDataSource1">
+<summary>
+Contrôle SqlDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._updatedate">
+<summary>
+Contrôle updatedate.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Timer1">
+<summary>
+Contrôle Timer1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Dele">
+<summary>
+Contrôle Dele.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._rest">
+<summary>
+Contrôle rest.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._DDPrm">
+<summary>
+Contrôle DDPrm.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._SqlDataSource4">
+<summary>
+Contrôle SqlDataSource4.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._DDGr">
+<summary>
+Contrôle DDGr.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._spanCalendrier">
+<summary>
+Contrôle spanCalendrier.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._LinkCalendar1">
+<summary>
+Contrôle LinkCalendar1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._uibasic3">
+<summary>
+Contrôle uibasic3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._Calendar1">
+<summary>
+Contrôle Calendar1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._ButtonSave">
+<summary>
+Contrôle ButtonSave.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._SqlDataSource1">
+<summary>
+Contrôle SqlDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._LabelPrm">
+<summary>
+Contrôle LabelPrm.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._LabelGrp">
+<summary>
+Contrôle LabelGrp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._LabelMsg">
+<summary>
+Contrôle LabelMsg.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._divEGV">
+<summary>
+Contrôle divEGV.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._LabelMsg2">
+<summary>
+Contrôle LabelMsg2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._EtudiantGrid">
+<summary>
+Contrôle EtudiantGrid.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageAbsencesJustification._SqlDataSource2">
+<summary>
+Contrôle SqlDataSource2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._HyperLink2">
+<summary>
+Contrôle HyperLink2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEnseignant._lnk2">
+<summary>
+Contrôle lnk2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._HyperLink2">
+<summary>
+Contrôle HyperLink2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageChoixEtudiant._lnk2">
+<summary>
+Contrôle lnk2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._form1">
+<summary>
+Contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._ScriptManager1">
+<summary>
+Contrôle ScriptManager1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._PrmLabel">
+<summary>
+Contrôle PrmLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._SecLabel">
+<summary>
+Contrôle SecLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._GrpLabel">
+<summary>
+Contrôle GrpLabel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._LabelMsg2">
+<summary>
+Contrôle LabelMsg2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._GridView1">
+<summary>
+Contrôle GridView1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Label3">
+<summary>
+Contrôle Label3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._LinkButton1">
+<summary>
+Contrôle LinkButton1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._LinkButton2">
+<summary>
+Contrôle LinkButton2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Panel2">
+<summary>
+Contrôle Panel2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._TextBox5">
+<summary>
+Contrôle TextBox5.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._TextBox4">
+<summary>
+Contrôle TextBox4.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Button5">
+<summary>
+Contrôle Button5.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Button6">
+<summary>
+Contrôle Button6.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Panel2_ModalPopupExtender">
+<summary>
+Contrôle Panel2_ModalPopupExtender.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Panel1">
+<summary>
+Contrôle Panel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Button3">
+<summary>
+Contrôle Button3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._TextBox6">
+<summary>
+Contrôle TextBox6.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._TextBox1">
+<summary>
+Contrôle TextBox1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._TextBox2">
+<summary>
+Contrôle TextBox2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Button4">
+<summary>
+Contrôle Button4.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._Button7">
+<summary>
+Contrôle Button7.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._ModalPopupExtender1">
+<summary>
+Contrôle ModalPopupExtender1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesAffichage._SqlDataSource2">
+<summary>
+Contrôle SqlDataSource2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._form2">
+<summary>
+Contrôle form2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._ToolkitScriptManager2">
+<summary>
+Contrôle ToolkitScriptManager2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._UpdatePanel1">
+<summary>
+Contrôle UpdatePanel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._HyperLink1">
+<summary>
+Contrôle HyperLink1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._lnk1">
+<summary>
+Contrôle lnk1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._updatedate">
+<summary>
+Contrôle updatedate.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Timer1">
+<summary>
+Contrôle Timer1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Dele">
+<summary>
+Contrôle Dele.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._rest">
+<summary>
+Contrôle rest.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Label1">
+<summary>
+Contrôle Label1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Bt_changermdp">
+<summary>
+Contrôle Bt_changermdp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Buttonlogout">
+<summary>
+Contrôle Buttonlogout.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Label2">
+<summary>
+Contrôle Label2.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._DDCodeMat">
+<summary>
+Contrôle DDCodeMat.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._DDGr">
+<summary>
+Contrôle DDGr.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._bt_enr_sais">
+<summary>
+Contrôle bt_enr_sais.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._calculmoyenne">
+<summary>
+Contrôle calculmoyenne.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._LabelMdl">
+<summary>
+Contrôle LabelMdl.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._LabelGrp">
+<summary>
+Contrôle LabelGrp.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._LabelPrm">
+<summary>
+Contrôle LabelPrm.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._divEGV">
+<summary>
+Contrôle divEGV.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._GridView1">
+<summary>
+Contrôle GridView1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._tbt">
+<summary>
+Contrôle tbt.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._ModalPopupExtender1">
+<summary>
+Contrôle ModalPopupExtender1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Panel1">
+<summary>
+Contrôle Panel1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._cccoef">
+<summary>
+Contrôle cccoef.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._CustomValidator6">
+<summary>
+Contrôle CustomValidator6.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._cicoef">
+<summary>
+Contrôle cicoef.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._CustomValidator7">
+<summary>
+Contrôle CustomValidator7.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._tpcoef">
+<summary>
+Contrôle tpcoef.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._CustomValidator8">
+<summary>
+Contrôle CustomValidator8.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._cfcoef">
+<summary>
+Contrôle cfcoef.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._CustomValidator9">
+<summary>
+Contrôle CustomValidator9.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Cancel">
+<summary>
+Contrôle Cancel.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._Calcul">
+<summary>
+Contrôle Calcul.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._btnPopup">
+<summary>
+Contrôle btnPopup.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._SaisieNotes">
+<summary>
+Contrôle SaisieNotes.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._SqlDataSource3">
+<summary>
+Contrôle SqlDataSource3.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.PageNotesSaisie._SqlDataSource1">
+<summary>
+Contrôle SqlDataSource1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.SiteMaster._MainContent">
+<summary>
+Contrôle MainContent.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._Head1">
+<summary>
+Contrôle Head1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._HeadContent">
+<summary>
+Contrôle HeadContent.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._form1">
+<summary>
+contrôle form1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._FeaturedContent">
+<summary>
+Contrôle FeaturedContent.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._MainContent">
+<summary>
+Contrôle MainContent.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+<member name="F:My1stWebApplication.Site_Mobile._ViewSwitcher1">
+<summary>
+Contrôle ViewSwitcher1.
+</summary>
+<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member>
+</members>
+</doc>
